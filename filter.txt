@@ -1,0 +1,20 @@
+! Expires: 1 day
+! Name: Ultimate Grayware Filter
+||wavebrowser.com
+||wavebrowser.co
+||gowavebrowser.co
+||blazerbrowser.com
+||shift.com
+||tryshift.com
+||browsergo.com
+||softonic.com
+||appksonline.com
+||download.com
+||getballoonfiles.com
+||getfluxfile.com
+||get.acebrowser.ai
+||findmypicfast.com
+||ccleaner.com
+||mycleanpc.com
+||pcappstore.com
+||pchelpsoft.com
