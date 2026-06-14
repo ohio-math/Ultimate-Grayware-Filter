@@ -1,5 +1,5 @@
 ! Expires: 1 day
-! Name: Ultimate Grayware Filter
+! Title: Ultimate Grayware Filter
 ||wavebrowser.com
 ||wavebrowser.co
 ||gowavebrowser.co
