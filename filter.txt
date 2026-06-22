@@ -1,6 +1,7 @@
 ! Expires: 1 day
 ! Title: Ultimate Grayware Filter
 ||wavebrowser.com
+||wavebrowserpro.com
 ||wavebrowser.co
 ||gowavebrowser.co
 ||blazerbrowser.com
@@ -20,3 +21,5 @@
 ||pchelpsoft.com
 ||easysearchhub.net
 ||glimpulsivehub.net
+||getbettersearch.com
+||getcubbie.com
