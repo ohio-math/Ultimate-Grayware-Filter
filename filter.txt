@@ -5,6 +5,7 @@
 ||wavebrowser.co
 ||gowavebrowser.co
 ||blazerbrowser.com
+||printwithblazer.com
 ||shift.com
 ||tryshift.com
 ||browsergo.com
